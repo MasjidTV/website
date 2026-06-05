@@ -60,8 +60,8 @@ export const Navbar = () => {
           <img
             src="/logo.svg"
             alt="logo"
-            width={94}
-            height={18}
+            width={100}
+            height={8}
             className="dark:invert"
           />
         </a>
