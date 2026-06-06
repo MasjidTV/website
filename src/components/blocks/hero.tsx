@@ -53,7 +53,7 @@ export const Hero = () => {
             </Button>
             <Button
               variant="outline"
-              className="from-background h-auto gap-2 bg-linear-to-r to-transparent shadow-md"
+              className="h-auto gap-2 border-border/70 bg-linear-to-r from-background via-background to-background/80 shadow-sm shadow-black/10 dark:border-border/60 dark:shadow-black/40"
               asChild
             >
               <a
