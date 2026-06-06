@@ -5,8 +5,7 @@ export const SITE_TITLE = "MasjidTV";
 export const SITE_DESCRIPTION =
   "MasjidTV adalah sistem untuk memaparkan waktu solat semasa dan informasi terkini yang berkaitan.";
 
-export const GITHUB_URL =
-  "https://github.com/shadcnblocks/mainline-astro-template";
+export const GITHUB_URL = "https://github.com/MasjidTV";
 
 export const SITE_METADATA = {
   title: {
@@ -16,23 +15,30 @@ export const SITE_METADATA = {
   description:
     "MasjidTV adalah sistem untuk memaparkan waktu solat semasa dan informasi terkini yang berkaitan.",
   keywords: [
-    "Astro",
-    "astro template",
-    "astro theme",
-    "astro starter",
-    "shadcn template",
-    "shadcn theme",
-    "shadcn starter",
-    "tailwind template",
-    "tailwind theme",
-    "tailwind starter",
-    "mdx template",
-    "mdx theme",
-    "mdx starter",
+    "MasjidTV",
+    "masjid tv",
+    "waktu solat",
+    "jadual solat",
+    "waktu solat semasa",
+    "jadual waktu solat",
+    "azan",
+    "iqamah",
+    "informasi masjid",
+    "pengumuman masjid",
+    "prayer times",
+    "muslim prayer times",
+    "prayer timetable",
+    "mosque display system",
+    "digital masjid board",
+    "mosque information screen",
+    "Islamic reminders",
+    "Ramadan timetable",
+    "jadual Ramadan",
+    "Masjid Malaysia",
   ],
-  authors: [{ name: "shadcnblocks.com" }],
-  creator: "shadcnblocks.com",
-  publisher: "shadcnblocks.com",
+  authors: [{ name: "Muhammad Fareez Iqmal", url: "https://iqfareez.com" }],
+  creator: "Muhammad Fareez Iqmal",
+  publisher: "MasjidTV",
   robots: {
     index: true,
     follow: true,
@@ -68,6 +74,6 @@ export const SITE_METADATA = {
     description:
       "MasjidTV adalah sistem untuk memaparkan waktu solat semasa dan informasi terkini yang berkaitan.",
     images: ["/og-image.jpg"],
-    creator: "@ausrobdev",
+    creator: "@iqfareez",
   },
 };

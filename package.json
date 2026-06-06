@@ -1,8 +1,8 @@
 {
-  "name": "mainline-astro-template",
+  "name": "masjidtv-website",
   "type": "module",
-  "version": "1.2.0",
-  "author": "shadcnblocks.com",
+  "version": "1.0.0",
+  "author": "iqfareez.com",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
